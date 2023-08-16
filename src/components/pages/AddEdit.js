@@ -96,7 +96,7 @@ const AddEdit = () => {
       <input type='text' 
       id='name' 
       name='name' 
-      placeholder='Name of the Product'
+      placeholder='Name of the Customer'
       value={name || ''}
       onChange={handleInputChange} />
 
@@ -104,7 +104,7 @@ const AddEdit = () => {
      <input type='email' 
       id='email' 
       name='email' 
-      placeholder='Mention email '
+      placeholder='Enter email '
       value={email || ''}
       onChange={handleInputChange} />
 
