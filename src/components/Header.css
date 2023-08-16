@@ -47,14 +47,17 @@
     align-items:center;
 }
 
-@media screen and (max-width: 500px){
-    .header p{
-        float:none;
-        display:block;
-        text-align:left;
+@media screen and (max-width: 500px) {
+    .header p {
+      float: none;
+      display: block;
+      text-align: left;
     }
-    .header-right{
-        float:none; 
+    .header-right {
+      float: none;
+      justify-content: flex-start;
     }
-}
-
+    .inputField {
+      width: 100% !important;
+    }
+  }
