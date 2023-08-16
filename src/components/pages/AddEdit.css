@@ -1,5 +1,5 @@
 input[type="text"],
-input[type="number"],
+input[type="price"],
 input[type="email"],
 select{
     width:100%;

@@ -111,7 +111,7 @@ const AddEdit = () => {
       
 
       <label htmlFor='phone'>Phone</label>
-      <input type='number' 
+      <input type='price' 
       id='phone' 
       name='phone' 
       placeholder='Enter Phone number'
