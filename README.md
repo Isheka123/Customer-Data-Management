@@ -78,8 +78,8 @@ This Customer Data Management app allows you to:
 
 ## Built With
 
-React - A JavaScript library for building user interfaces.
-Firebase - A cloud-based platform for building web applications.
+-React - A JavaScript library for building user interfaces.
+-Firebase - A cloud-based platform for building web applications.
 
 ## Contributing
 
@@ -88,4 +88,5 @@ Feel free to contribute to this project if you'd like to add more features or im
 ## Acknowledgments
 
 Thank you for using this Customer Data Management App!
+
 Happy coding!
